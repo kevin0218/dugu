@@ -14,5 +14,9 @@ public class App
         System.out.println("岳不群去死吧！！！！！！！！！！！！！！！！");
         System.out.println("岳不群去死吧！！！！！！！！！！！！！！！！");
         System.out.println("岳不群去死吧！！！！！！！！！！！！！！！！");
+        System.out.println("岳不群去死吧2！！！！！！！！！！！！！！！！");
+        System.out.println("岳不群去死吧2！！！！！！！！！！！！！！！！");
+        System.out.println("岳不群去死吧2！！！！！！！！！！！！！！！！");
+        System.out.println("岳不群去死吧2！！！！！！！！！！！！！！！！");
     }
 }
