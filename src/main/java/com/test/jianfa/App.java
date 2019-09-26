@@ -10,5 +10,9 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("生活总有不如意！！！！！！！！！！！！！！！！");
+        System.out.println("岳不群去死吧！！！！！！！！！！！！！！！！");
+        System.out.println("岳不群去死吧！！！！！！！！！！！！！！！！");
+        System.out.println("岳不群去死吧！！！！！！！！！！！！！！！！");
+        System.out.println("岳不群去死吧！！！！！！！！！！！！！！！！");
     }
 }
