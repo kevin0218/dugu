@@ -10,5 +10,11 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("生活总有不如意！！！！！！！！！！！！！！！！");
+        System.out.println("令狐冲不容易！！！！！！！！！！！！！！！！");
+        System.out.println("令狐冲不容易！！！！！！！！！！！！！！！！");
+        System.out.println("令狐冲不容易！！！！！！！！！！！！！！！！");
+        System.out.println("令狐冲不容易！！！！！！！！！！！！！！！！");
+        System.out.println("令狐冲不容易！！！！！！！！！！！！！！！！");
+        System.out.println("令狐冲不容易！！！！！！！！！！！！！！！！");
     }
 }
